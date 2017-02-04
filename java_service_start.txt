@@ -1,0 +1,1 @@
+java -cp ./ServiceMock_lib/bin/com/bednyakov/servlet/:./ServiceMock.jar com.bednyakov.servlet.ServiceMock 17000
